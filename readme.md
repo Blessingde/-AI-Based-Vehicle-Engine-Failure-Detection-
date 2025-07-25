@@ -58,5 +58,4 @@ streamlit run app.py
 pip install requirements.txt
 ```
 ## Demo link
-
-[demo]: # ('https://streamlit.')
+[Streamlit App](https://smartenginecheck.streamlit.app/)
